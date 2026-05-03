@@ -1,1 +1,1 @@
-mirgrating from openclaw to hermes
+migrating from openclaw to hermes
